@@ -1,0 +1,31 @@
+{
+  "name": "npm-build-boilerplate",
+  "version": "1.2.0",
+  "description": "A set of common build tasks written with npm scripts.",
+  "author": "Emmanuel Ndibe",
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "scripts",
+    "npm scripts",
+    "watch",
+    "minify",
+    "compress"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "eslint": "^3.19.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.5.3",
+    "npm-run-all": "^2.1.1",
+    "onchange": "^3.2.1",
+    "parallelshell": "^2.0.0",
+    "postcss-cli": "^2.5.2",
+    "uglify-js": "^3.0.11"
+  }
+}
